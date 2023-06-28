@@ -1,0 +1,34 @@
+# Carpeta de proyectos de CodeBlocks
+*.cbp
+*.layout
+*.depend
+*.depend.cb
+*.template
+*.template.cbp
+*.cbp
+*.layout.cb
+*.layout.user
+*.depend.user
+
+# Archivos de CodeBlocks
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.so
+*.lib
+*.exp
+*.sln
+*.suo
+*.user
+*.tmp
+*.tmp.*
+*.bak
+*.~*
+
+# Carpetas de CodeBlocks
+Debug/
+Release/
+bin/
+obj/
